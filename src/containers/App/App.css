@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background: black;
+  color: white;
+  margin: 0px;
+  padding: 16px;
+  font-family: 'Noto Serif JP', serif;
+  font-size: 32px;
+}
